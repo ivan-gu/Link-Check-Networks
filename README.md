@@ -1,2 +1,2 @@
 # Link-Check-Networks
-Class projects from Computer Networks. Checks if the URL passed to the parameter has been successfully processed.
+Class projects from Computer Networks. This project contains a function that returns the site url and it's response code when passed urls as parameters.
